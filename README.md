@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cf48ab&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3985b8&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo🌎;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ## 💻 Desenvolvedora Front-End | 📊 Scrum Enthusiast | 🎓 ADS 4º Período
 
