@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cf48ab&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf48ab8&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo🌎;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo🌎;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ## 💻 Desenvolvedora Front-End | 📊 Scrum Enthusiast | 🎓 ADS 4º Período
 
@@ -12,8 +12,8 @@
 
 ### **Estatísticas do GitHub**
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=liliansm&show_icons=true&theme=dracula&hide=contribs,prs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliansm&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=liliansm&show_icons=true&hide=contribs,prs&bg_color=ffd6e7&title_color=ff1493&text_color=8b008b&icon_color=ff69b4"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliansm&layout=compact&bg_color=ffd6e7&title_color=ff1493&text_color=8b008b&icon_color=ff69b4&border_color=ff69b4&hide_border=true"/>
 </div>
 
 ### **Tech Stack**
@@ -39,3 +39,5 @@
 ---
 
 ✨ **"Codando interfaces, gerenciando projetos e aprendendo algo novo todo dia!"**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cf48ab&height=120&section=footer&direction=up"/>
